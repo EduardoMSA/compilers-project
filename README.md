@@ -13,7 +13,7 @@ It accepts up to 2 additonal command line arguments.
 
 The first argument indicates the path to the file that will be compiled.
 
-	-	`python compiler.py input.txt`
+	- `python compiler.py input.txt`
 
 The second argument indicates the path to the file that will contained the compiled code.
 
@@ -21,4 +21,4 @@ The second argument indicates the path to the file that will contained the compi
 
 Both parameters are optional, in case you don't specify the second parameter the compiled code will be written by default in `output.txt`. If you don't specify the first parameter, the program will attempt to compile the file [`input.txt`](https://github.com/EduardoMSA/compilers-project/blob/master/input.txt) if exists. It is possible to run the compiler with the following command:
 
-	-	`python compiler.py`
+	- `python compiler.py`
