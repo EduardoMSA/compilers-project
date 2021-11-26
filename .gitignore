@@ -1,2 +1,7 @@
 /env
 **/__pycache__
+**/*.out
+**/parsetab.py
+**/*.txt
+!input.txt
+!requirements.txt
